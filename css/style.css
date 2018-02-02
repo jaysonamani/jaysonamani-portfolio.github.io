@@ -1,0 +1,21 @@
+body{
+	font-family: 'Pacifico', cursive;
+}
+.bg-1{
+	background-color: purple;
+}
+.bg-2{
+	background-color: green;
+	color: blue;
+}
+.bg-3{
+	background-color: grey;
+	color:pink;
+}
+.cointainer-fluid{
+	padding: 80px;
+	padding: 80px;
+}
+.bg-4{
+	background-color: grey;
+}
